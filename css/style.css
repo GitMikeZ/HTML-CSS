@@ -85,7 +85,7 @@ header ul li a.current{
     color: #fff;
 }
 
-/*Heading Style*/
+/* Heading Style */
 .intro-heading{
     text-align: center;
     margin-top: 30%;
@@ -101,4 +101,28 @@ header ul li a.current{
     font-weight: 300;
     text-transform: uppercase;
     color: #fff;
+}
+
+/* About Header style */
+.about {
+    width: 45%;
+    margin-top: 13%;
+    word-wrap: break-word;
+}
+
+.about h3 {
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    animation-delay: 2s;
+}
+
+.about p {
+    color: #fff;
+    line-height: 30px;
+    font-size: 14px;
+    animation-delay: 2s;
 }
